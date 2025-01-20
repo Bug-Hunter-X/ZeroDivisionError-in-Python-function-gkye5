@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: ZeroDivisionError.  The `bug.py` file contains code that causes this error.  The solution, in `bugSolution.py`, shows how to prevent this error by checking for division by zero before performing the operation.
